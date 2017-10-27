@@ -1,0 +1,3 @@
+
+Unsupervised Learning: Discover hidden patterns in data when there are no lables.
+Ex: Filtering spam e-mails.
