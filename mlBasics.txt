@@ -1,3 +1,7 @@
 
+Machine learning: Finding hidden patterns in data to help us in some way.
+Example: Making sense from scientic results, improve user experience,
+         help maximize profit in investment.
+         
 Unsupervised Learning: Discover hidden patterns in data when there are no lables.
 Ex: Filtering spam e-mails.
