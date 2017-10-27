@@ -1,7 +1,13 @@
 
 Machine learning: Finding hidden patterns in data to help us in some way.
-Example: Making sense from scientic results, improve user experience,
-         help maximize profit in investment.
-         
+Example: 1) Making sense from scientic results;
+         2) Improve user experience;
+         3) Maximize profit in investment.
+
+Supervised learning: Learn from data when we have labels for the data seen so far.
+Example: Filter e-mail as SPAM or NOT SPAM in gmails.
+
 Unsupervised Learning: Discover hidden patterns in data when there are no lables.
-Ex: Filtering spam e-mails.
+Example: Group news by categoy like google news.
+
+Every ML probem has a data set (collection of data points). 
