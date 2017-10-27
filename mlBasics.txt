@@ -1,13 +1,38 @@
 
-Machine learning: Finding hidden patterns in data to help us in some way.
+Machine learning:
+----------------
+Finding hidden patterns in data to help us in some way.
 Example: 1) Making sense from scientic results;
          2) Improve user experience;
          3) Maximize profit in investment.
 
-Supervised learning: Learn from data when we have labels for the data seen so far.
+Supervised learning:
+-------------------
+Learn from data when we have labels for the data seen so far.
 Example: Filter e-mail as SPAM or NOT SPAM in gmails.
 
-Unsupervised Learning: Discover hidden patterns in data when there are NO lables.
+Unsupervised Learning:
+---------------------
+Discover hidden patterns in data when there are NO lables.
 Example: Group news by categoy like google news.
 
+
 Every ML probem has a data set (collection of data points). 
+
+
+Clustering:
+-----------
+Clustering is unsupervised learning problem where we find the hidden patterns
+from a data set, group them accordingly to some similarity and identify likely
+labels. Group data according to similarity. Group/Data/Similarity are three key words.
+
+
+Classification:
+---------------
+Classification is what we called our supervised learning problem when the labels
+are categorical. In classification problem, bunch of data points with labels are
+given. Then our goal would be to find labels for any remaining unlabeled artifacts.
+That is, our goal will be to predict labels for new data points given the labels at
+all data points.
+
+
