@@ -23,16 +23,15 @@ Every ML probem has a data set (collection of data points).
 Clustering:
 -----------
 Clustering is unsupervised learning problem where we find the hidden patterns
-from a data set, group them accordingly to some similarity and identify likely
-labels. Group data according to similarity. Group/Data/Similarity are three key words.
+from a data set, group them accordingly to some similarity. Group data according
+to similarity. Group/Data/Similarity are three key words.
 
 
 Classification:
 ---------------
-Classification is what we called our supervised learning problem when the labels
-are categorical. In classification problem, bunch of data points with labels are
-given. Then our goal would be to find labels for any remaining unlabeled artifacts.
-That is, our goal will be to predict labels for new data points given the labels at
-all data points.
+Classification is supervised learning problem. In classification problem, bunch
+of data points with labels are given. Then the goal would be to find labels for
+any remaining unlabeled data points. That is, our goal will be to predict labels
+for new data points given the labels at all data points.
 
 
