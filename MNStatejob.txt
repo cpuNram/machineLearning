@@ -1,0 +1,25 @@
+Creating test case, defining regression tests for future projects, review and
+  report test result identify test issues on a project.
+
+Create test plans, data =, proceducres, manual and automated scripts.
+
+Promote appropriate test methodologies to identify manage defects in software systems.
+
+Knowledge of software quality assurance (methodologies, process and technologies
+   with respect to manual automation integration and performance/stress testing areas.
+
+Basic documentation and methodoliges skills related to test planning.
+
+Ability to prioritize under tight time constraints.
+
+Adjust to rapidly changing environment.
+
+Maintain effectiveness in resposive to constantly changing unknow project requirements.
+
+
+Demonstrate problem solving skills, problem definition, observation, information gathering reasearch and interpretation
+and being able to anticipate problems.
+
+High degree of analytic and proboem solving skills including human behavioral and customer relation skills
+
+Attention to detail.
